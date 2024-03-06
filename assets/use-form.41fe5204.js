@@ -1,0 +1,1 @@
+import{a as t}from"./index.c4110508.js";const a={name:String};function r(e){return t(()=>({type:"hidden",name:e.name,value:e.modelValue}))}function m(e){return t(()=>e.name||e.for)}export{r as a,m as b,a as u};
