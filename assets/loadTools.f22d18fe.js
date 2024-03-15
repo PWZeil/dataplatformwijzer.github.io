@@ -1,1 +1,0 @@
-import{b as s}from"./index.557c2ba5.js";import{u as t}from"./answerStore.8121ae15.js";import{t as e,q as a}from"./tools.bb27e4e2.js";var i=s(async()=>{const o=t();console.log("Loaded tools.json"),o.tools=e.tools,console.log("Loaded questions.json"),o.questions=a.questions});export{i as default};
