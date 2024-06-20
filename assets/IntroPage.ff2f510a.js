@@ -1,0 +1,1 @@
+import{Q as e}from"./QPage.521d93c3.js";import{_ as a,a as t,u as o,am as s,o as r,e as n,w as c,g as u}from"./index.77e6b876.js";const _=t({name:"IntroPage",setup(){return o(),s(),{}}}),d=u("div",{class:"q-ma-md"},"Introduction here",-1);function p(i,m,f,l,g,h){return r(),n(e,null,{default:c(()=>[d]),_:1})}var B=a(_,[["render",p]]);export{B as default};
